@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Amit</h1>
 <h3 align="center">Software Engineer and Full-stack Devleoper</h3>
 
-- 🌱 I’m currently work at Project Verte
+- 🌱 I’m currently working at Project Verte
 - 💬 LinkedIn: https://www.linkedin.com/in/amit-marciano-93973520b/
 - 📫 Email: amitma44@gmail.com
 
